@@ -4,5 +4,4 @@
 method1
 {
 	[some code]
-	[code updated]
 }
