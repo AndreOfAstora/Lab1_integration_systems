@@ -5,4 +5,5 @@ method1
 {
 	[some code]
 	[update 1.1 done]
+	[upd v1.2]
 }
