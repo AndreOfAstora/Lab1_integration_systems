@@ -4,4 +4,5 @@
 method1
 {
 	[some code]
+	[update 1.1 done]
 }
